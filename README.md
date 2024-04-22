@@ -23,9 +23,9 @@ Python 3.8+, Pip package manager, Pytorch
 Soumyae Tyagi - Main contributor - tyagi.so@northeastern.edu
 
 ## Acknowledgments
-Northeastern University
-Kaggle for the DAQUAR dataset used in this project
-Microsoft for the GIT-base-COCO model
+Northeastern University,
+Kaggle for the DAQUAR dataset used in this project,
+Microsoft for the GIT-base-COCO model, and 
 Google for the Vision Transformer model
 
 ## Contact

@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/bhavikardeshna/visual-question-answering-compute
 Python 3.8+, Pip package manager, Pytorch
 
 ## Authors
-Soumyae Tyagi - Initial work and main contributor - tyagi.so@northeastern.edu
+Soumyae Tyagi - Main contributor - tyagi.so@northeastern.edu
 
 ## Acknowledgments
 Northeastern University
